@@ -1,0 +1,16 @@
+id: I10A14C90
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:24:52.811919
+last_modified: 2023-02-10 00:24:52.812039
+source_metadata:
+  title: 'Asaṅga: Abhidharmasamuccaya'
+  language: sa
+bases:
+  '3967':
+    base_file: 3967.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
